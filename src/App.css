@@ -1,0 +1,14 @@
+/* src/App.css */
+.container {
+  margin-top: 50px;
+}
+
+.show-item {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.show-item img {
+  width: 150px;
+  margin-right: 20px;
+}
